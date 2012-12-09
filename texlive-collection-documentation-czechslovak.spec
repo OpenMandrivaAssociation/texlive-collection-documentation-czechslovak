@@ -34,3 +34,12 @@ TeXLive collection-documentation-czechslovak package.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780209
+- Update to latest release.
+- Import texlive-collection-documentation-czechslovak
+- Import texlive-collection-documentation-czechslovak
+
