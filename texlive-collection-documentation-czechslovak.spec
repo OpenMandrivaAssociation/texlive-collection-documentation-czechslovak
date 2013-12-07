@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-czechslovak
 Epoch:		1
 Version:	20120224
-Release:	4
+Release:	5
 Summary:	Czech/Slovak documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
